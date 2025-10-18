@@ -1,6 +1,6 @@
-# Reverse Lines
+# Send-reversed-messages
 
-A lightweight Python utility that reads text from standard input and prints each line reversed, while preserving the original line order. Useful for quick text transformations, stream processing, or command-line scripting examples.
+This simple Python program reads multi-line text input from the user and prints each line reversed, while preserving the original line order. 
 
 ---
 
