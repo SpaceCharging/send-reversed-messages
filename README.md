@@ -16,6 +16,35 @@ Usually, my friends reply with a reversed message too, and I can use this tool t
 - Supports both interactive and piped input
 
 
+## 🧠 Example
+
+**Input**
+```
+Hi Friend,
+
+I hope you’re enjoying the beautiful autumn colors!
+I’ve been learning Python and developing some fun little tools—one of them actually wrote this email for me!
+How do you like it?
+Hopefully I’ll have more progress to share soon. I’d love to see you sometime later this year.
+
+Best,
+SpaceCharging
+```
+
+
+
+**Output**
+```
+,dneirF iH
+
+!sroloc nmutua lufituaeb eht gniyojne er’uoy epoh I
+!em rof liame siht etorw yllautca meht fo eno—sloot elttil nuf emos gnipoleved dna nohtyP gninrael neeb ev’I
+?ti ekil uoy od woH
+.raey siht retal emitemos uoy ees ot evol d’I .noos erahs ot ssergorp erom evah ll’I yllufepoH
+
+,tseB
+gnigrahCecapS
+```
 ---
 
 ## 🚀 Usage
@@ -68,38 +97,7 @@ README.md
 ---
 
 
-## 🧠 Example
 
-**Input file**
-```
-Hi Friend,
-
-I hope you’re enjoying the beautiful autumn colors!
-I’ve been learning Python and developing some fun little tools—one of them actually wrote this email for me!
-How do you like it?
-Hopefully I’ll have more progress to share soon. I’d love to see you sometime later this year.
-
-Best,
-SpaceCharging
-```
-
-**Command**
-```bash
-$ python reverse_lines.py < lines.txt
-```
-
-**Output**
-```
-,dneirF iH
-
-!sroloc nmutua lufituaeb eht gniyojne er’uoy epoh I
-!em rof liame siht etorw yllautca meht fo eno—sloot elttil nuf emos gnipoleved dna nohtyP gninrael neeb ev’I
-?ti ekil uoy od woH
-.raey siht retal emitemos uoy ees ot evol d’I .noos erahs ot ssergorp erom evah ll’I yllufepoH
-
-,tseB
-gnigrahCecapS
-```
 
 ---
 
