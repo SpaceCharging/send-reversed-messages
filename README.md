@@ -3,6 +3,10 @@
 This simple Python program reads multi-line text input from the user and prints each line reversed, while preserving the original line order. 
 
 ---
+## 🤣 Usefulness
+I sometimes write reversed messages to friends just to tease them. This tool makes the prank much easier. 
+Usually, my friends reply with a reversed message too, and I can use this tool to convert their replies back.
+
 
 ## 🔧 Features
 
@@ -10,7 +14,7 @@ This simple Python program reads multi-line text input from the user and prints 
 - Reverses characters in each line individually
 - Maintains the original paragraph and line order
 - Supports both interactive and piped input
-- No external dependencies
+
 
 ---
 
@@ -63,20 +67,20 @@ README.md
 
 ---
 
-## ⚙️ Requirements
-
-- Python 3.6 or later
-- Works cross-platform (Linux, macOS, Windows)
-
----
 
 ## 🧠 Example
 
 **Input file**
 ```
-First line
-Second line
-Third line
+Hi Friend,
+
+I hope you’re enjoying the beautiful autumn colors!
+I’ve been learning Python and developing some fun little tools—one of them actually wrote this email for me!
+How do you like it?
+Hopefully I’ll have more progress to share soon. I’d love to see you sometime later this year.
+
+Best,
+SpaceCharging
 ```
 
 **Command**
@@ -86,9 +90,15 @@ $ python reverse_lines.py < lines.txt
 
 **Output**
 ```
-enil tsriF
-enil dnoceS
-enil drihT
+,dneirF iH
+
+!sroloc nmutua lufituaeb eht gniyojne er’uoy epoh I
+!em rof liame siht etorw yllautca meht fo eno—sloot elttil nuf emos gnipoleved dna nohtyP gninrael neeb ev’I
+?ti ekil uoy od woH
+.raey siht retal emitemos uoy ees ot evol d’I .noos erahs ot ssergorp erom evah ll’I yllufepoH
+
+,tseB
+gnigrahCecapS
 ```
 
 ---
